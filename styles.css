@@ -1,0 +1,203 @@
+.pageContainer{
+
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    
+   
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+    display: flex;
+    padding: 10px;
+}
+
+a{
+    color: white;
+}
+
+.headerLinks{
+    display: flex;
+    padding: 10px;
+    gap: 1rem;
+    
+}
+
+#linkOne{
+    
+}
+
+#linkTwo{
+    
+
+}
+
+#linkThree{
+
+}
+
+
+
+
+
+.firstBox{
+    background-color: #1f2937;
+    display: flex;
+    
+}
+
+#mainText{
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+
+}
+#secondaryText{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.leftAndRight{
+    display: flex;
+
+    width: 100%;
+    
+    
+    border: red;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.firstLeftSide{
+
+    width: 50%;
+
+    border: cyan;
+    border-width: 2px;
+    border-style: solid;
+
+}
+
+#buttonColor{
+    background-color: #3882f6;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 3px 15px 3px 15px;
+}
+
+.firstRightSide{
+    background-color: gray;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+
+
+    border: orange;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+.textRightBox{
+    display: flex;
+    justify-content: center;
+}
+
+.secondBox{
+
+}
+
+#infoHeader{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.boxRow{
+    display: flex;
+
+    border: aqua;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+#lineBox1{
+    border: 3px solid #3882f6;
+	border-radius: 10%;
+	width: 130px;
+	height: 130px;
+}
+
+#box1{
+
+    border: seagreen;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+#lineBox2{
+    border: 3px solid #3882f6;
+	border-radius: 10%;
+	width: 130px;
+	height: 130px;
+}
+
+#box2{
+
+    border: purple;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+#lineBox3{
+    border: 3px solid #3882f6;
+	border-radius: 10%;
+	width: 130px;
+	height: 130px;
+    
+    z-index: 86;
+    
+    
+}
+
+#box3{
+
+    border: indianred;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+#lineBox4{
+    border: 3px solid #3882f6;
+	border-radius: 10%;
+	width: 130px;
+	height: 130px;
+	
+}
+
+#box4{
+
+    border: violet;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+
+
+
+
+
